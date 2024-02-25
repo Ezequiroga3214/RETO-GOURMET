@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(79, 112, 14);
+}
+
+header {
+  color: antiquewhite;
+  letter-spacing: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.imagenes {
+  padding: 10px;
+  margin: 20px;
+  display: inline-block;
+}
+img {
+  margin-right: 40px; /* Ajusta el espacio a la derecha de cada imagen */
+  margin-bottom: 40px;
+}
+
+footer {
+  color: aliceblue;
+  text-align: center;
+  padding: 10px;
+}

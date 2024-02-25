@@ -1,0 +1,86 @@
+body {
+  background-color: rgb(79, 112, 14);
+}
+
+header {
+  border-bottom-style: solid;
+  border-color: aliceblue;
+  border-width: contents;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: rgb(250, 250, 250);
+  font-family:Georgia, 'Times New Roman', Times, serif; 
+}
+
+.box1 {
+  border: 1px solid rgb(245, 245, 245);
+  width: 100%;
+  height: 400px;
+  background-color: aliceblue;
+  height: max-content;
+}
+
+.producto1 {
+  border: 1px solid rgb(208, 190, 190);
+  margin: 15px;
+  padding: 5px;
+  background-color: bisque;
+}
+
+.cocina {
+  border: 1px solid rgb(4, 27, 32);
+  margin: 10px;
+}
+
+.linkcocina {
+  text-align: right;
+  margin: 100px;
+  text-decoration: none;
+}
+
+.producto2 {
+  border: 1px solid rgb(208, 190, 190);
+  margin: 15px;
+  padding: 5px;
+  background-color: bisque;
+}
+
+.postres { 
+  border: 1px solid rgb(4, 27, 32);
+  margin: 10px;
+}
+
+.linkdelicias {
+  text-align: right;
+  margin: 100px;
+  text-decoration: none;
+} 
+
+
+.producto3 {
+  border: 1px solid rgb(208, 190, 190);
+  margin: 15px;
+  padding: 5px;
+  background-color: bisque;
+}
+
+.cocteles {
+  border: 1px solid rgb(4, 27, 32);
+  margin: 10px;
+  width: 330px;
+  height: 200px;
+}
+
+.linkcocteles{
+  text-align: right;
+  margin: 100px;
+  text-decoration: none;
+}
+
+footer {
+  color: aliceblue;
+  text-align: center;
+  padding: 10px;
+}

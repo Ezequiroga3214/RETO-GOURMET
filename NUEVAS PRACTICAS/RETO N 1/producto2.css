@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+
+.imagenes {
+
+margin-left: 150px;
+
+}
+
+.imag1 img {
+    width: 500px;
+    height: 350px;
+    padding: 10px;
+    position:relative;
+    border-radius: 90%;
+} 
+
+a {
+    color: cadetblue;
+    font-size: 35px;
+    text-decoration: none;
+    margin: 15px;
+    transition-duration: 1s;
+}
+a:hover {
+color: aliceblue;    
+
+}

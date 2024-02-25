@@ -1,0 +1,50 @@
+span {
+
+margin: 10px;
+border: solid red;
+box-sizing: content-box;
+display: inline-block;
+padding: 10px;
+}
+
+div {
+  border: solid blue 1px;
+  border-radius: 100%;
+  margin: 10px;
+  width: 200px;
+  height: 150px;
+  background-color: yellow;
+  padding: 50px;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+
+
+p{
+  border: solid blue;
+  padding: 5px;
+
+}
+
+
+
+.cajabox3{
+display: block;
+padding: 5px;
+box-sizing:content-box;
+height: max-content;
+border-top-style:dotted;
+border-top-color:green;
+}
+
+.LORETO 
+{
+  padding: 20px;
+  box-sizing:content-box;
+  text-align: justify;
+  height: max-content;
+  border-radius: 0%;
+  background-color: aquamarine;
+}
